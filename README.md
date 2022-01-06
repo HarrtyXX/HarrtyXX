@@ -21,8 +21,8 @@
 
 <h1>Ｓｔａｔｓ</h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarrtyXX&show_icons=true&custom_title=𝔾𝕚𝕥𝕙𝕦𝕓 𝕊𝕥𝕒𝕥𝕤&include_all_commits=True&theme=discord_old_blurple"/>
-
-
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=HarrtyXX&show_icons=true&custom_title=𝔾𝕚𝕥𝕙𝕦𝕓 𝕊𝕥𝕒𝕥𝕤&include_all_commits=True&theme=discord_old_blurple" />
+</p>
 
 <!--                     https://github.com/anuraghazra/github-readme-stats#stats-card-exclusive-options            -->
